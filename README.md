@@ -1,5 +1,5 @@
 # AstroloGem
-AstroloGem - a strict RAG-based astrologer 
+AstroloGem - a strict RAG-based astrologer.
 Open [AstroloGem](https://gemini.google.com/gem/1gg1ecghmK1zRjTEU6e53xFIwzcRmGDhm?usp=sharing) to interact with the AI
 # AstroloGem 💎
 
