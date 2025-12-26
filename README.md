@@ -1,6 +1,6 @@
 # AstroloGem
 AstroloGem - a strict RAG-based astrologer 
-
+Open [AstroloGem](https://gemini.google.com/gem/1gg1ecghmK1zRjTEU6e53xFIwzcRmGDhm?usp=sharing) to interact with the AI
 # AstroloGem 💎
 
 AstroloGem is my experiment in building a **strict AI astrologer** — one that uses
