@@ -89,7 +89,11 @@ You are responsible for how you interpret or apply any output.
 
 AstroloGem exists to explore:
 - How AI systems can **respect uncertainty**
-- How classical knowledge can be
+- How classical knowledge can be **referenced without hallucination**
+- How engineering discipline can be applied to non-engineering domains
+
+The goal is not to prove astrology —  
+but to design **better-behaved AI systems**.
 
 
 ## AI Assistance
