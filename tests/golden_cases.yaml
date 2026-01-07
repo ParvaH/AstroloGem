@@ -1,0 +1,20 @@
+- id: manglik_basic
+  input:
+    question: "Is this person Manglik?"
+    chart:
+      mars_house: 7
+  expected:
+    rules_applied:
+      - "Manglik Dosha Rule"
+    confidence: "High"
+    uncertainty_allowed: false
+
+- id: undefined_case
+  input:
+    question: "Career prediction for unknown yoga"
+    chart:
+      unknown_yoga: true
+  expected:
+    rules_applied: []
+    confidence: "Low"
+    uncertainty_allowed: true
