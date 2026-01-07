@@ -100,3 +100,9 @@ but to design **better-behaved AI systems**.
 
 Some portions of this repository, including documentation and example prompts, were drafted with the assistance of AI tools.
 
+#Local Run 
+docker build -t astrologem .
+docker run -p 8000:8000 astrologem
+
+#API Available at:
+http://localhost:8000/analyze-chart
